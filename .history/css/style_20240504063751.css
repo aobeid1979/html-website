@@ -175,9 +175,7 @@ article#main-col{
     header #branding, 
     header nav, 
     header nav ul, 
-    #newsletter h1, 
-    #newsletter form ,
-    header nav ul li{
+    #newsletter h1, #newsletter form ,header nav ul li{
         float: none;
         display: block;
         width: 100%;

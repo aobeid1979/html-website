@@ -172,12 +172,7 @@ article#main-col{
 }
 
 @media(max-width: 768px){
-    header #branding, 
-    header nav, 
-    header nav ul, 
-    #newsletter h1, 
-    #newsletter form ,
-    header nav ul li{
+    header #branding, header nav, header nav ul, nheader nav ul li{
         float: none;
         display: block;
         width: 100%;
